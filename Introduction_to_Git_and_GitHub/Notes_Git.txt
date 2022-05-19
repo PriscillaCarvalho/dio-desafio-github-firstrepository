@@ -276,5 +276,6 @@ Exiba a variável PROD conforme exemplo abaixo, tendo obrigatoriamente um espaç
 
 ## Links Uteis
 
-### Install Git on Mac OS X - https://www.atlassian.com/git/tutorials/install-git#install-the-git-credential-osx
+[Install Git on Mac OS X](https://www.atlassian.com/git/tutorials/install-git#install-the-git-credential-osx)
+[First steps - where do I start, where do I begin?]()
 
